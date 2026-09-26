@@ -14,6 +14,6 @@ Die Excel-Datei enthält folgende Tabellenblätter:
 
 Prognosen und Ist-Werte stammen aus den veröffentlichten Geschäftsberichten der Unternehmen (Berichtsjahre 2019-2024).
 
-##Version
+## Version
 
 v1.0 - Abgabeversion vom 05.10.2026
